@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>{{title}}</title>
+    <link rel="icon" href="/img/customize.png" />
+    <link rel="stylesheet" href="/css/styles.css" />
+</head>
+
+<body>
+    <div class="main-content">
+        {{>header}}
+        <p>Customize the Icons!</p>
+        <form>
+            <a>Icon Name: </a>
+            <input placeholder="icon_name..." id="iconName">
+            <a>Size (px): </a>
+            <input placeholder="240..." id="sizeInPixels">
+            <a>Color (hex): </a>
+            <input placeholder="#808080..." id="colorCode">
+            <button>Change</button>
+        </form>
+        <p id="message"></p>
+        <img id="display-image">
+    </div>
+    <div class="download-buttons">
+        <a id="download-svg" download>
+            <button>Download SVG</button>
+        </a>
+        {{!-- <br> --}}
+        <a id="download-png" download>
+            <button>Download PNG</button>
+        </a>
+    </div>
+    {{>footer}}
+    <script src="/js/app.js"></script>
+</body>
+
+</html>
