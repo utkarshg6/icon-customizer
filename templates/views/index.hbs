@@ -13,12 +13,18 @@
         {{>header}}
         <p>Customize the Icons!</p>
         <form>
-            <a>Icon Name: </a>
-            <input placeholder="icon_name..." id="iconName">
-            <a>Size (px): </a>
-            <input placeholder="240..." id="sizeInPixels">
-            <a>Color (hex): </a>
-            <input placeholder="#808080..." id="colorCode">
+            <label>Icon Name: </label>
+            {{!-- <input placeholder="icon_name..." id="iconName"> --}}
+            <select id="icon-name-dropdown">
+                {{!-- <option value="action_chains">Action Chains</option>
+                <option value="activate_subscriptions">Activate Subscriptions</option>
+                <option value="admin">Admin</option>
+                <option value="api">Api</option> --}}
+            </select>
+            <label>Size (px): </label>
+            <input placeholder="240..." id="size-in-pixels">
+            <label>Color (hex): </label>
+            <input placeholder="#808080..." id="color-code">
             <button>Change</button>
         </form>
         <p id="message"></p>

@@ -53,3 +53,10 @@ button {
   color: white;
   padding: 8px;
 }
+
+select {
+  background: white;
+  padding: 4px;
+  width: 185px;
+  height: 31px;
+}
