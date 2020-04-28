@@ -51,32 +51,26 @@ const fetchDetails = (category, iconName, colorCode, sizeInPixels) => {
   )
 }
 
-
-if (category == "regular") {
-  fetchDetails("regular", "action_chains", "000000", "500");
-  iconNameDropdown.options.add(new Option(text = "Action Chains", value = "action_chains"));
-  iconNameDropdown.options.add(new Option(text = "Activate Subscriptions", value = "activate_subscriptions"));
-  iconNameDropdown.options.add(new Option(text = "Admin", value = "admin"));
-  iconNameDropdown.options.add(new Option(text = "Api", value = "api"));
-  iconNameDropdown.options.add(new Option(text = "Application Incomplete", value = "application_incomplete"));
-  iconNameDropdown.options.add(new Option(text = "Application Instance", value = "application_instance"));
-}
-
-if (category == "material") {
-  fetchDetails("material", "wifi", "000000", "500");
-  iconNameDropdown.options.add(new Option(text = "3d Rotation", value = "3d_rotation"));
-  iconNameDropdown.options.add(new Option(text = "Ac Unit", value = "ac_unit"));
-  iconNameDropdown.options.add(new Option(text = "Access Alarm", value = "access_alarm"));
-  iconNameDropdown.options.add(new Option(text = "Access Alarms", value = "access_alarms"));
-  iconNameDropdown.options.add(new Option(text = "Access Time", value = "access_time"));
-}
-
 if (category == "animated") {
-  fetchDetails("animated", "installing", "000000", "500");
   downloadPNG.hidden = true;
-  iconNameDropdown.options.add(new Option(text = "Installing", value = "installing"));
-  iconNameDropdown.options.add(new Option(text = "Loading", value = "loading"));
 }
+
+fetch("./json/icon-names.json")
+  .then(function (response) {
+    return response.json();
+  })
+  .then(function (data) {
+
+    iconsArray = data[category];
+
+    for (let i = 0; i < iconsArray.length; i++) {
+      text = iconsArray[i]["text"];
+      value = iconsArray[i]["value"];
+      iconNameDropdown.options.add(new Option(text = text, value = value));
+      // console.log("Hey, I got the text " + text + " and value " + value);
+    }
+    fetchDetails(category, iconNameDropdown.value, "000000", 500);
+  });
 
 form.addEventListener("submit", (e) => {
   e.preventDefault();
@@ -88,10 +82,4 @@ form.addEventListener("submit", (e) => {
   // message.textContent = "Loading...";
 
   fetchDetails(category, iconName, colorCode, sizeInPixels);
-  // message.textContent =
-  //   "The Image has been changed to Color #" +
-  //   data.colorCode +
-  //   " and size " +
-  //   data.sizeInPixels +
-  //   "px.";
 });

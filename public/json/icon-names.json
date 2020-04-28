@@ -1,0 +1,4188 @@
+{
+    "animated": [
+        {
+            "text": "Installing",
+            "value": "installing"
+        },
+        {
+            "text": "Loading",
+            "value": "loading"
+        }
+    ],
+    "material": [
+        {
+            "text": "3d Rotation",
+            "value": "3d_rotation"
+        },
+        {
+            "text": "Accessibility",
+            "value": "accessibility"
+        },
+        {
+            "text": "Accessible",
+            "value": "accessible"
+        },
+        {
+            "text": "Access Alarm",
+            "value": "access_alarm"
+        },
+        {
+            "text": "Access Alarms",
+            "value": "access_alarms"
+        },
+        {
+            "text": "Access Time",
+            "value": "access_time"
+        },
+        {
+            "text": "Account Balance",
+            "value": "account_balance"
+        },
+        {
+            "text": "Account Balance Wallet",
+            "value": "account_balance_wallet"
+        },
+        {
+            "text": "Account Box",
+            "value": "account_box"
+        },
+        {
+            "text": "Account Circle",
+            "value": "account_circle"
+        },
+        {
+            "text": "Ac Unit",
+            "value": "ac_unit"
+        },
+        {
+            "text": "Adb",
+            "value": "adb"
+        },
+        {
+            "text": "Add",
+            "value": "add"
+        },
+        {
+            "text": "Add Alarm",
+            "value": "add_alarm"
+        },
+        {
+            "text": "Add Alert",
+            "value": "add_alert"
+        },
+        {
+            "text": "Add A Photo",
+            "value": "add_a_photo"
+        },
+        {
+            "text": "Add Box",
+            "value": "add_box"
+        },
+        {
+            "text": "Add Circle",
+            "value": "add_circle"
+        },
+        {
+            "text": "Add Circle Outline",
+            "value": "add_circle_outline"
+        },
+        {
+            "text": "Add Location",
+            "value": "add_location"
+        },
+        {
+            "text": "Add Shopping Cart",
+            "value": "add_shopping_cart"
+        },
+        {
+            "text": "Add To Photos",
+            "value": "add_to_photos"
+        },
+        {
+            "text": "Add To Queue",
+            "value": "add_to_queue"
+        },
+        {
+            "text": "Adjust",
+            "value": "adjust"
+        },
+        {
+            "text": "Airline Seat Flat",
+            "value": "airline_seat_flat"
+        },
+        {
+            "text": "Airline Seat Flat Angled",
+            "value": "airline_seat_flat_angled"
+        },
+        {
+            "text": "Airline Seat Individual Suite",
+            "value": "airline_seat_individual_suite"
+        },
+        {
+            "text": "Airline Seat Legroom Extra",
+            "value": "airline_seat_legroom_extra"
+        },
+        {
+            "text": "Airline Seat Legroom Normal",
+            "value": "airline_seat_legroom_normal"
+        },
+        {
+            "text": "Airline Seat Legroom Reduced",
+            "value": "airline_seat_legroom_reduced"
+        },
+        {
+            "text": "Airline Seat Recline Extra",
+            "value": "airline_seat_recline_extra"
+        },
+        {
+            "text": "Airline Seat Recline Normal",
+            "value": "airline_seat_recline_normal"
+        },
+        {
+            "text": "Airplanemode Active",
+            "value": "airplanemode_active"
+        },
+        {
+            "text": "Airplanemode Inactive",
+            "value": "airplanemode_inactive"
+        },
+        {
+            "text": "Airplay",
+            "value": "airplay"
+        },
+        {
+            "text": "Airport Shuttle",
+            "value": "airport_shuttle"
+        },
+        {
+            "text": "Alarm",
+            "value": "alarm"
+        },
+        {
+            "text": "Alarm Add",
+            "value": "alarm_add"
+        },
+        {
+            "text": "Alarm Off",
+            "value": "alarm_off"
+        },
+        {
+            "text": "Alarm On",
+            "value": "alarm_on"
+        },
+        {
+            "text": "Album",
+            "value": "album"
+        },
+        {
+            "text": "All Inclusive",
+            "value": "all_inclusive"
+        },
+        {
+            "text": "All Out",
+            "value": "all_out"
+        },
+        {
+            "text": "Android",
+            "value": "android"
+        },
+        {
+            "text": "Announcement",
+            "value": "announcement"
+        },
+        {
+            "text": "Apps",
+            "value": "apps"
+        },
+        {
+            "text": "Archive",
+            "value": "archive"
+        },
+        {
+            "text": "Arrow Back",
+            "value": "arrow_back"
+        },
+        {
+            "text": "Arrow Downward",
+            "value": "arrow_downward"
+        },
+        {
+            "text": "Arrow Drop Down",
+            "value": "arrow_drop_down"
+        },
+        {
+            "text": "Arrow Drop Down Circle",
+            "value": "arrow_drop_down_circle"
+        },
+        {
+            "text": "Arrow Drop Up",
+            "value": "arrow_drop_up"
+        },
+        {
+            "text": "Arrow Forward",
+            "value": "arrow_forward"
+        },
+        {
+            "text": "Arrow Upward",
+            "value": "arrow_upward"
+        },
+        {
+            "text": "Art Track",
+            "value": "art_track"
+        },
+        {
+            "text": "Aspect Ratio",
+            "value": "aspect_ratio"
+        },
+        {
+            "text": "Assessment",
+            "value": "assessment"
+        },
+        {
+            "text": "Assignment",
+            "value": "assignment"
+        },
+        {
+            "text": "Assignment Ind",
+            "value": "assignment_ind"
+        },
+        {
+            "text": "Assignment Late",
+            "value": "assignment_late"
+        },
+        {
+            "text": "Assignment Return",
+            "value": "assignment_return"
+        },
+        {
+            "text": "Assignment Returned",
+            "value": "assignment_returned"
+        },
+        {
+            "text": "Assignment Turned In",
+            "value": "assignment_turned_in"
+        },
+        {
+            "text": "Assistant",
+            "value": "assistant"
+        },
+        {
+            "text": "Assistant Photo",
+            "value": "assistant_photo"
+        },
+        {
+            "text": "Attachment",
+            "value": "attachment"
+        },
+        {
+            "text": "Attach File",
+            "value": "attach_file"
+        },
+        {
+            "text": "Attach Money",
+            "value": "attach_money"
+        },
+        {
+            "text": "Audiotrack",
+            "value": "audiotrack"
+        },
+        {
+            "text": "Autorenew",
+            "value": "autorenew"
+        },
+        {
+            "text": "Av Timer",
+            "value": "av_timer"
+        },
+        {
+            "text": "Backspace",
+            "value": "backspace"
+        },
+        {
+            "text": "Backup",
+            "value": "backup"
+        },
+        {
+            "text": "Battery 20",
+            "value": "battery_20"
+        },
+        {
+            "text": "Battery 30",
+            "value": "battery_30"
+        },
+        {
+            "text": "Battery 50",
+            "value": "battery_50"
+        },
+        {
+            "text": "Battery 60",
+            "value": "battery_60"
+        },
+        {
+            "text": "Battery 80",
+            "value": "battery_80"
+        },
+        {
+            "text": "Battery 90",
+            "value": "battery_90"
+        },
+        {
+            "text": "Battery Alert",
+            "value": "battery_alert"
+        },
+        {
+            "text": "Battery Charging 20",
+            "value": "battery_charging_20"
+        },
+        {
+            "text": "Battery Charging 30",
+            "value": "battery_charging_30"
+        },
+        {
+            "text": "Battery Charging 50",
+            "value": "battery_charging_50"
+        },
+        {
+            "text": "Battery Charging 60",
+            "value": "battery_charging_60"
+        },
+        {
+            "text": "Battery Charging 80",
+            "value": "battery_charging_80"
+        },
+        {
+            "text": "Battery Charging 90",
+            "value": "battery_charging_90"
+        },
+        {
+            "text": "Battery Charging Full",
+            "value": "battery_charging_full"
+        },
+        {
+            "text": "Battery Full",
+            "value": "battery_full"
+        },
+        {
+            "text": "Battery Std",
+            "value": "battery_std"
+        },
+        {
+            "text": "Battery Unknown",
+            "value": "battery_unknown"
+        },
+        {
+            "text": "Beach Access",
+            "value": "beach_access"
+        },
+        {
+            "text": "Beenhere",
+            "value": "beenhere"
+        },
+        {
+            "text": "Block",
+            "value": "block"
+        },
+        {
+            "text": "Bluetooth",
+            "value": "bluetooth"
+        },
+        {
+            "text": "Bluetooth Audio",
+            "value": "bluetooth_audio"
+        },
+        {
+            "text": "Bluetooth Connected",
+            "value": "bluetooth_connected"
+        },
+        {
+            "text": "Bluetooth Disabled",
+            "value": "bluetooth_disabled"
+        },
+        {
+            "text": "Bluetooth Searching",
+            "value": "bluetooth_searching"
+        },
+        {
+            "text": "Blur Circular",
+            "value": "blur_circular"
+        },
+        {
+            "text": "Blur Linear",
+            "value": "blur_linear"
+        },
+        {
+            "text": "Blur Off",
+            "value": "blur_off"
+        },
+        {
+            "text": "Blur On",
+            "value": "blur_on"
+        },
+        {
+            "text": "Book",
+            "value": "book"
+        },
+        {
+            "text": "Bookmark",
+            "value": "bookmark"
+        },
+        {
+            "text": "Bookmark Border",
+            "value": "bookmark_border"
+        },
+        {
+            "text": "Border All",
+            "value": "border_all"
+        },
+        {
+            "text": "Border Bottom",
+            "value": "border_bottom"
+        },
+        {
+            "text": "Border Clear",
+            "value": "border_clear"
+        },
+        {
+            "text": "Border Color",
+            "value": "border_color"
+        },
+        {
+            "text": "Border Horizontal",
+            "value": "border_horizontal"
+        },
+        {
+            "text": "Border Inner",
+            "value": "border_inner"
+        },
+        {
+            "text": "Border Left",
+            "value": "border_left"
+        },
+        {
+            "text": "Border Outer",
+            "value": "border_outer"
+        },
+        {
+            "text": "Border Right",
+            "value": "border_right"
+        },
+        {
+            "text": "Border Style",
+            "value": "border_style"
+        },
+        {
+            "text": "Border Top",
+            "value": "border_top"
+        },
+        {
+            "text": "Border Vertical",
+            "value": "border_vertical"
+        },
+        {
+            "text": "Branding Watermark",
+            "value": "branding_watermark"
+        },
+        {
+            "text": "Brightness 1",
+            "value": "brightness_1"
+        },
+        {
+            "text": "Brightness 2",
+            "value": "brightness_2"
+        },
+        {
+            "text": "Brightness 3",
+            "value": "brightness_3"
+        },
+        {
+            "text": "Brightness 4",
+            "value": "brightness_4"
+        },
+        {
+            "text": "Brightness 5",
+            "value": "brightness_5"
+        },
+        {
+            "text": "Brightness 6",
+            "value": "brightness_6"
+        },
+        {
+            "text": "Brightness 7",
+            "value": "brightness_7"
+        },
+        {
+            "text": "Brightness Auto",
+            "value": "brightness_auto"
+        },
+        {
+            "text": "Brightness High",
+            "value": "brightness_high"
+        },
+        {
+            "text": "Brightness Low",
+            "value": "brightness_low"
+        },
+        {
+            "text": "Brightness Medium",
+            "value": "brightness_medium"
+        },
+        {
+            "text": "Broken Image",
+            "value": "broken_image"
+        },
+        {
+            "text": "Brush",
+            "value": "brush"
+        },
+        {
+            "text": "Bubble Chart",
+            "value": "bubble_chart"
+        },
+        {
+            "text": "Bug Report",
+            "value": "bug_report"
+        },
+        {
+            "text": "Build",
+            "value": "build"
+        },
+        {
+            "text": "Burst Mode",
+            "value": "burst_mode"
+        },
+        {
+            "text": "Business",
+            "value": "business"
+        },
+        {
+            "text": "Business Center",
+            "value": "business_center"
+        },
+        {
+            "text": "Cached",
+            "value": "cached"
+        },
+        {
+            "text": "Cake",
+            "value": "cake"
+        },
+        {
+            "text": "Call",
+            "value": "call"
+        },
+        {
+            "text": "Call End",
+            "value": "call_end"
+        },
+        {
+            "text": "Call Made",
+            "value": "call_made"
+        },
+        {
+            "text": "Call Merge",
+            "value": "call_merge"
+        },
+        {
+            "text": "Call Missed",
+            "value": "call_missed"
+        },
+        {
+            "text": "Call Missed Outgoing",
+            "value": "call_missed_outgoing"
+        },
+        {
+            "text": "Call Received",
+            "value": "call_received"
+        },
+        {
+            "text": "Call Split",
+            "value": "call_split"
+        },
+        {
+            "text": "Call To Action",
+            "value": "call_to_action"
+        },
+        {
+            "text": "Camera",
+            "value": "camera"
+        },
+        {
+            "text": "Camera Alt",
+            "value": "camera_alt"
+        },
+        {
+            "text": "Camera Enhance",
+            "value": "camera_enhance"
+        },
+        {
+            "text": "Camera Front",
+            "value": "camera_front"
+        },
+        {
+            "text": "Camera Rear",
+            "value": "camera_rear"
+        },
+        {
+            "text": "Camera Roll",
+            "value": "camera_roll"
+        },
+        {
+            "text": "Cancel",
+            "value": "cancel"
+        },
+        {
+            "text": "Card Giftcard",
+            "value": "card_giftcard"
+        },
+        {
+            "text": "Card Membership",
+            "value": "card_membership"
+        },
+        {
+            "text": "Card Travel",
+            "value": "card_travel"
+        },
+        {
+            "text": "Casino",
+            "value": "casino"
+        },
+        {
+            "text": "Cast",
+            "value": "cast"
+        },
+        {
+            "text": "Cast Connected",
+            "value": "cast_connected"
+        },
+        {
+            "text": "Center Focus Strong",
+            "value": "center_focus_strong"
+        },
+        {
+            "text": "Center Focus Weak",
+            "value": "center_focus_weak"
+        },
+        {
+            "text": "Change History",
+            "value": "change_history"
+        },
+        {
+            "text": "Chat",
+            "value": "chat"
+        },
+        {
+            "text": "Chat Bubble",
+            "value": "chat_bubble"
+        },
+        {
+            "text": "Chat Bubble Outline",
+            "value": "chat_bubble_outline"
+        },
+        {
+            "text": "Check",
+            "value": "check"
+        },
+        {
+            "text": "Check Box",
+            "value": "check_box"
+        },
+        {
+            "text": "Check Box Outline Blank",
+            "value": "check_box_outline_blank"
+        },
+        {
+            "text": "Check Circle",
+            "value": "check_circle"
+        },
+        {
+            "text": "Chevron Left",
+            "value": "chevron_left"
+        },
+        {
+            "text": "Chevron Right",
+            "value": "chevron_right"
+        },
+        {
+            "text": "Child Care",
+            "value": "child_care"
+        },
+        {
+            "text": "Child Friendly",
+            "value": "child_friendly"
+        },
+        {
+            "text": "Chrome Reader Mode",
+            "value": "chrome_reader_mode"
+        },
+        {
+            "text": "Class",
+            "value": "class"
+        },
+        {
+            "text": "Clear",
+            "value": "clear"
+        },
+        {
+            "text": "Clear All",
+            "value": "clear_all"
+        },
+        {
+            "text": "Close",
+            "value": "close"
+        },
+        {
+            "text": "Closed Caption",
+            "value": "closed_caption"
+        },
+        {
+            "text": "Cloud",
+            "value": "cloud"
+        },
+        {
+            "text": "Cloud Circle",
+            "value": "cloud_circle"
+        },
+        {
+            "text": "Cloud Done",
+            "value": "cloud_done"
+        },
+        {
+            "text": "Cloud Download",
+            "value": "cloud_download"
+        },
+        {
+            "text": "Cloud Off",
+            "value": "cloud_off"
+        },
+        {
+            "text": "Cloud Queue",
+            "value": "cloud_queue"
+        },
+        {
+            "text": "Cloud Upload",
+            "value": "cloud_upload"
+        },
+        {
+            "text": "Code",
+            "value": "code"
+        },
+        {
+            "text": "Collections",
+            "value": "collections"
+        },
+        {
+            "text": "Collections Bookmark",
+            "value": "collections_bookmark"
+        },
+        {
+            "text": "Colorize",
+            "value": "colorize"
+        },
+        {
+            "text": "Color Lens",
+            "value": "color_lens"
+        },
+        {
+            "text": "Comment",
+            "value": "comment"
+        },
+        {
+            "text": "Compare",
+            "value": "compare"
+        },
+        {
+            "text": "Compare Arrows",
+            "value": "compare_arrows"
+        },
+        {
+            "text": "Computer",
+            "value": "computer"
+        },
+        {
+            "text": "Confirmation Number",
+            "value": "confirmation_number"
+        },
+        {
+            "text": "Contacts",
+            "value": "contacts"
+        },
+        {
+            "text": "Contact Mail",
+            "value": "contact_mail"
+        },
+        {
+            "text": "Contact Phone",
+            "value": "contact_phone"
+        },
+        {
+            "text": "Content Copy",
+            "value": "content_copy"
+        },
+        {
+            "text": "Content Cut",
+            "value": "content_cut"
+        },
+        {
+            "text": "Content Paste",
+            "value": "content_paste"
+        },
+        {
+            "text": "Control Point",
+            "value": "control_point"
+        },
+        {
+            "text": "Control Point Duplicate",
+            "value": "control_point_duplicate"
+        },
+        {
+            "text": "Copyright",
+            "value": "copyright"
+        },
+        {
+            "text": "Create",
+            "value": "create"
+        },
+        {
+            "text": "Create New Folder",
+            "value": "create_new_folder"
+        },
+        {
+            "text": "Credit Card",
+            "value": "credit_card"
+        },
+        {
+            "text": "Crop",
+            "value": "crop"
+        },
+        {
+            "text": "Crop 16 9",
+            "value": "crop_16_9"
+        },
+        {
+            "text": "Crop 3 2",
+            "value": "crop_3_2"
+        },
+        {
+            "text": "Crop 5 4",
+            "value": "crop_5_4"
+        },
+        {
+            "text": "Crop 7 5",
+            "value": "crop_7_5"
+        },
+        {
+            "text": "Crop Din",
+            "value": "crop_din"
+        },
+        {
+            "text": "Crop Free",
+            "value": "crop_free"
+        },
+        {
+            "text": "Crop Landscape",
+            "value": "crop_landscape"
+        },
+        {
+            "text": "Crop Original",
+            "value": "crop_original"
+        },
+        {
+            "text": "Crop Portrait",
+            "value": "crop_portrait"
+        },
+        {
+            "text": "Crop Rotate",
+            "value": "crop_rotate"
+        },
+        {
+            "text": "Crop Square",
+            "value": "crop_square"
+        },
+        {
+            "text": "Dashboard",
+            "value": "dashboard"
+        },
+        {
+            "text": "Data Usage",
+            "value": "data_usage"
+        },
+        {
+            "text": "Date Range",
+            "value": "date_range"
+        },
+        {
+            "text": "Dehaze",
+            "value": "dehaze"
+        },
+        {
+            "text": "Delete",
+            "value": "delete"
+        },
+        {
+            "text": "Delete Forever",
+            "value": "delete_forever"
+        },
+        {
+            "text": "Delete Sweep",
+            "value": "delete_sweep"
+        },
+        {
+            "text": "Description",
+            "value": "description"
+        },
+        {
+            "text": "Desktop Mac",
+            "value": "desktop_mac"
+        },
+        {
+            "text": "Desktop Windows",
+            "value": "desktop_windows"
+        },
+        {
+            "text": "Details",
+            "value": "details"
+        },
+        {
+            "text": "Developer Board",
+            "value": "developer_board"
+        },
+        {
+            "text": "Developer Mode",
+            "value": "developer_mode"
+        },
+        {
+            "text": "Devices",
+            "value": "devices"
+        },
+        {
+            "text": "Devices Other",
+            "value": "devices_other"
+        },
+        {
+            "text": "Device Hub",
+            "value": "device_hub"
+        },
+        {
+            "text": "Dialer Sip",
+            "value": "dialer_sip"
+        },
+        {
+            "text": "Dialpad",
+            "value": "dialpad"
+        },
+        {
+            "text": "Directions",
+            "value": "directions"
+        },
+        {
+            "text": "Directions Bike",
+            "value": "directions_bike"
+        },
+        {
+            "text": "Directions Boat",
+            "value": "directions_boat"
+        },
+        {
+            "text": "Directions Bus",
+            "value": "directions_bus"
+        },
+        {
+            "text": "Directions Car",
+            "value": "directions_car"
+        },
+        {
+            "text": "Directions Railway",
+            "value": "directions_railway"
+        },
+        {
+            "text": "Directions Run",
+            "value": "directions_run"
+        },
+        {
+            "text": "Directions Subway",
+            "value": "directions_subway"
+        },
+        {
+            "text": "Directions Transit",
+            "value": "directions_transit"
+        },
+        {
+            "text": "Directions Walk",
+            "value": "directions_walk"
+        },
+        {
+            "text": "Disc Full",
+            "value": "disc_full"
+        },
+        {
+            "text": "Dns",
+            "value": "dns"
+        },
+        {
+            "text": "Dock",
+            "value": "dock"
+        },
+        {
+            "text": "Domain",
+            "value": "domain"
+        },
+        {
+            "text": "Done",
+            "value": "done"
+        },
+        {
+            "text": "Done All",
+            "value": "done_all"
+        },
+        {
+            "text": "Donut Large",
+            "value": "donut_large"
+        },
+        {
+            "text": "Donut Small",
+            "value": "donut_small"
+        },
+        {
+            "text": "Do Not Disturb",
+            "value": "do_not_disturb"
+        },
+        {
+            "text": "Do Not Disturb Alt",
+            "value": "do_not_disturb_alt"
+        },
+        {
+            "text": "Do Not Disturb Off",
+            "value": "do_not_disturb_off"
+        },
+        {
+            "text": "Do Not Disturb On",
+            "value": "do_not_disturb_on"
+        },
+        {
+            "text": "Drafts",
+            "value": "drafts"
+        },
+        {
+            "text": "Drag Handle",
+            "value": "drag_handle"
+        },
+        {
+            "text": "Drive Eta",
+            "value": "drive_eta"
+        },
+        {
+            "text": "Dvr",
+            "value": "dvr"
+        },
+        {
+            "text": "Edit",
+            "value": "edit"
+        },
+        {
+            "text": "Edit Location",
+            "value": "edit_location"
+        },
+        {
+            "text": "Eject",
+            "value": "eject"
+        },
+        {
+            "text": "Email",
+            "value": "email"
+        },
+        {
+            "text": "Enhanced Encryption",
+            "value": "enhanced_encryption"
+        },
+        {
+            "text": "Equalizer",
+            "value": "equalizer"
+        },
+        {
+            "text": "Error",
+            "value": "error"
+        },
+        {
+            "text": "Error Outline",
+            "value": "error_outline"
+        },
+        {
+            "text": "Euro Symbol",
+            "value": "euro_symbol"
+        },
+        {
+            "text": "Event",
+            "value": "event"
+        },
+        {
+            "text": "Event Available",
+            "value": "event_available"
+        },
+        {
+            "text": "Event Busy",
+            "value": "event_busy"
+        },
+        {
+            "text": "Event Note",
+            "value": "event_note"
+        },
+        {
+            "text": "Event Seat",
+            "value": "event_seat"
+        },
+        {
+            "text": "Ev Station",
+            "value": "ev_station"
+        },
+        {
+            "text": "Exit To App",
+            "value": "exit_to_app"
+        },
+        {
+            "text": "Expand Less",
+            "value": "expand_less"
+        },
+        {
+            "text": "Expand More",
+            "value": "expand_more"
+        },
+        {
+            "text": "Explicit",
+            "value": "explicit"
+        },
+        {
+            "text": "Explore",
+            "value": "explore"
+        },
+        {
+            "text": "Exposure",
+            "value": "exposure"
+        },
+        {
+            "text": "Exposure Neg 1",
+            "value": "exposure_neg_1"
+        },
+        {
+            "text": "Exposure Neg 2",
+            "value": "exposure_neg_2"
+        },
+        {
+            "text": "Exposure Plus 1",
+            "value": "exposure_plus_1"
+        },
+        {
+            "text": "Exposure Plus 2",
+            "value": "exposure_plus_2"
+        },
+        {
+            "text": "Exposure Zero",
+            "value": "exposure_zero"
+        },
+        {
+            "text": "Extension",
+            "value": "extension"
+        },
+        {
+            "text": "Face",
+            "value": "face"
+        },
+        {
+            "text": "Fast Forward",
+            "value": "fast_forward"
+        },
+        {
+            "text": "Fast Rewind",
+            "value": "fast_rewind"
+        },
+        {
+            "text": "Favorite",
+            "value": "favorite"
+        },
+        {
+            "text": "Favorite Border",
+            "value": "favorite_border"
+        },
+        {
+            "text": "Featured Play List",
+            "value": "featured_play_list"
+        },
+        {
+            "text": "Featured Video",
+            "value": "featured_video"
+        },
+        {
+            "text": "Feedback",
+            "value": "feedback"
+        },
+        {
+            "text": "Fiber Dvr",
+            "value": "fiber_dvr"
+        },
+        {
+            "text": "Fiber Manual Record",
+            "value": "fiber_manual_record"
+        },
+        {
+            "text": "Fiber New",
+            "value": "fiber_new"
+        },
+        {
+            "text": "Fiber Pin",
+            "value": "fiber_pin"
+        },
+        {
+            "text": "Fiber Smart Record",
+            "value": "fiber_smart_record"
+        },
+        {
+            "text": "File Download",
+            "value": "file_download"
+        },
+        {
+            "text": "File Upload",
+            "value": "file_upload"
+        },
+        {
+            "text": "Filter",
+            "value": "filter"
+        },
+        {
+            "text": "Filter 1",
+            "value": "filter_1"
+        },
+        {
+            "text": "Filter 2",
+            "value": "filter_2"
+        },
+        {
+            "text": "Filter 3",
+            "value": "filter_3"
+        },
+        {
+            "text": "Filter 4",
+            "value": "filter_4"
+        },
+        {
+            "text": "Filter 5",
+            "value": "filter_5"
+        },
+        {
+            "text": "Filter 6",
+            "value": "filter_6"
+        },
+        {
+            "text": "Filter 7",
+            "value": "filter_7"
+        },
+        {
+            "text": "Filter 8",
+            "value": "filter_8"
+        },
+        {
+            "text": "Filter 9",
+            "value": "filter_9"
+        },
+        {
+            "text": "Filter 9 Plus",
+            "value": "filter_9_plus"
+        },
+        {
+            "text": "Filter B And W",
+            "value": "filter_b_and_w"
+        },
+        {
+            "text": "Filter Center Focus",
+            "value": "filter_center_focus"
+        },
+        {
+            "text": "Filter Drama",
+            "value": "filter_drama"
+        },
+        {
+            "text": "Filter Frames",
+            "value": "filter_frames"
+        },
+        {
+            "text": "Filter Hdr",
+            "value": "filter_hdr"
+        },
+        {
+            "text": "Filter List",
+            "value": "filter_list"
+        },
+        {
+            "text": "Filter None",
+            "value": "filter_none"
+        },
+        {
+            "text": "Filter Tilt Shift",
+            "value": "filter_tilt_shift"
+        },
+        {
+            "text": "Filter Vintage",
+            "value": "filter_vintage"
+        },
+        {
+            "text": "Find In Page",
+            "value": "find_in_page"
+        },
+        {
+            "text": "Find Replace",
+            "value": "find_replace"
+        },
+        {
+            "text": "Fingerprint",
+            "value": "fingerprint"
+        },
+        {
+            "text": "First Page",
+            "value": "first_page"
+        },
+        {
+            "text": "Fitness Center",
+            "value": "fitness_center"
+        },
+        {
+            "text": "Flag",
+            "value": "flag"
+        },
+        {
+            "text": "Flare",
+            "value": "flare"
+        },
+        {
+            "text": "Flash Auto",
+            "value": "flash_auto"
+        },
+        {
+            "text": "Flash Off",
+            "value": "flash_off"
+        },
+        {
+            "text": "Flash On",
+            "value": "flash_on"
+        },
+        {
+            "text": "Flight",
+            "value": "flight"
+        },
+        {
+            "text": "Flight Land",
+            "value": "flight_land"
+        },
+        {
+            "text": "Flight Takeoff",
+            "value": "flight_takeoff"
+        },
+        {
+            "text": "Flip",
+            "value": "flip"
+        },
+        {
+            "text": "Flip To Back",
+            "value": "flip_to_back"
+        },
+        {
+            "text": "Flip To Front",
+            "value": "flip_to_front"
+        },
+        {
+            "text": "Folder",
+            "value": "folder"
+        },
+        {
+            "text": "Folder Open",
+            "value": "folder_open"
+        },
+        {
+            "text": "Folder Shared",
+            "value": "folder_shared"
+        },
+        {
+            "text": "Folder Special",
+            "value": "folder_special"
+        },
+        {
+            "text": "Font Download",
+            "value": "font_download"
+        },
+        {
+            "text": "Format Align Center",
+            "value": "format_align_center"
+        },
+        {
+            "text": "Format Align Justify",
+            "value": "format_align_justify"
+        },
+        {
+            "text": "Format Align Left",
+            "value": "format_align_left"
+        },
+        {
+            "text": "Format Align Right",
+            "value": "format_align_right"
+        },
+        {
+            "text": "Format Bold",
+            "value": "format_bold"
+        },
+        {
+            "text": "Format Clear",
+            "value": "format_clear"
+        },
+        {
+            "text": "Format Color Fill",
+            "value": "format_color_fill"
+        },
+        {
+            "text": "Format Color Reset",
+            "value": "format_color_reset"
+        },
+        {
+            "text": "Format Color Text",
+            "value": "format_color_text"
+        },
+        {
+            "text": "Format Indent Decrease",
+            "value": "format_indent_decrease"
+        },
+        {
+            "text": "Format Indent Increase",
+            "value": "format_indent_increase"
+        },
+        {
+            "text": "Format Italic",
+            "value": "format_italic"
+        },
+        {
+            "text": "Format Line Spacing",
+            "value": "format_line_spacing"
+        },
+        {
+            "text": "Format List Bulleted",
+            "value": "format_list_bulleted"
+        },
+        {
+            "text": "Format List Numbered",
+            "value": "format_list_numbered"
+        },
+        {
+            "text": "Format Paint",
+            "value": "format_paint"
+        },
+        {
+            "text": "Format Quote",
+            "value": "format_quote"
+        },
+        {
+            "text": "Format Shapes",
+            "value": "format_shapes"
+        },
+        {
+            "text": "Format Size",
+            "value": "format_size"
+        },
+        {
+            "text": "Format Strikethrough",
+            "value": "format_strikethrough"
+        },
+        {
+            "text": "Format Textdirection L To R",
+            "value": "format_textdirection_l_to_r"
+        },
+        {
+            "text": "Format Textdirection R To L",
+            "value": "format_textdirection_r_to_l"
+        },
+        {
+            "text": "Format Underlined",
+            "value": "format_underlined"
+        },
+        {
+            "text": "Forum",
+            "value": "forum"
+        },
+        {
+            "text": "Forward",
+            "value": "forward"
+        },
+        {
+            "text": "Forward 10",
+            "value": "forward_10"
+        },
+        {
+            "text": "Forward 30",
+            "value": "forward_30"
+        },
+        {
+            "text": "Forward 5",
+            "value": "forward_5"
+        },
+        {
+            "text": "Free Breakfast",
+            "value": "free_breakfast"
+        },
+        {
+            "text": "Fullscreen",
+            "value": "fullscreen"
+        },
+        {
+            "text": "Fullscreen Exit",
+            "value": "fullscreen_exit"
+        },
+        {
+            "text": "Functions",
+            "value": "functions"
+        },
+        {
+            "text": "Gamepad",
+            "value": "gamepad"
+        },
+        {
+            "text": "Games",
+            "value": "games"
+        },
+        {
+            "text": "Gavel",
+            "value": "gavel"
+        },
+        {
+            "text": "Gesture",
+            "value": "gesture"
+        },
+        {
+            "text": "Get App",
+            "value": "get_app"
+        },
+        {
+            "text": "Gif",
+            "value": "gif"
+        },
+        {
+            "text": "Golf Course",
+            "value": "golf_course"
+        },
+        {
+            "text": "Gps Fixed",
+            "value": "gps_fixed"
+        },
+        {
+            "text": "Gps Not Fixed",
+            "value": "gps_not_fixed"
+        },
+        {
+            "text": "Gps Off",
+            "value": "gps_off"
+        },
+        {
+            "text": "Grade",
+            "value": "grade"
+        },
+        {
+            "text": "Gradient",
+            "value": "gradient"
+        },
+        {
+            "text": "Grain",
+            "value": "grain"
+        },
+        {
+            "text": "Graphic Eq",
+            "value": "graphic_eq"
+        },
+        {
+            "text": "Grid Off",
+            "value": "grid_off"
+        },
+        {
+            "text": "Grid On",
+            "value": "grid_on"
+        },
+        {
+            "text": "Group",
+            "value": "group"
+        },
+        {
+            "text": "Group Add",
+            "value": "group_add"
+        },
+        {
+            "text": "Group Work",
+            "value": "group_work"
+        },
+        {
+            "text": "G Translate",
+            "value": "g_translate"
+        },
+        {
+            "text": "Hd",
+            "value": "hd"
+        },
+        {
+            "text": "Hdr Off",
+            "value": "hdr_off"
+        },
+        {
+            "text": "Hdr On",
+            "value": "hdr_on"
+        },
+        {
+            "text": "Hdr Strong",
+            "value": "hdr_strong"
+        },
+        {
+            "text": "Hdr Weak",
+            "value": "hdr_weak"
+        },
+        {
+            "text": "Headset",
+            "value": "headset"
+        },
+        {
+            "text": "Headset Mic",
+            "value": "headset_mic"
+        },
+        {
+            "text": "Healing",
+            "value": "healing"
+        },
+        {
+            "text": "Hearing",
+            "value": "hearing"
+        },
+        {
+            "text": "Help",
+            "value": "help"
+        },
+        {
+            "text": "Help Outline",
+            "value": "help_outline"
+        },
+        {
+            "text": "Highlight",
+            "value": "highlight"
+        },
+        {
+            "text": "Highlight Off",
+            "value": "highlight_off"
+        },
+        {
+            "text": "High Quality",
+            "value": "high_quality"
+        },
+        {
+            "text": "History",
+            "value": "history"
+        },
+        {
+            "text": "Home",
+            "value": "home"
+        },
+        {
+            "text": "Hotel",
+            "value": "hotel"
+        },
+        {
+            "text": "Hot Tub",
+            "value": "hot_tub"
+        },
+        {
+            "text": "Hourglass Empty",
+            "value": "hourglass_empty"
+        },
+        {
+            "text": "Hourglass Full",
+            "value": "hourglass_full"
+        },
+        {
+            "text": "Http",
+            "value": "http"
+        },
+        {
+            "text": "Https",
+            "value": "https"
+        },
+        {
+            "text": "Image",
+            "value": "image"
+        },
+        {
+            "text": "Image Aspect Ratio",
+            "value": "image_aspect_ratio"
+        },
+        {
+            "text": "Important Devices",
+            "value": "important_devices"
+        },
+        {
+            "text": "Import Contacts",
+            "value": "import_contacts"
+        },
+        {
+            "text": "Import Export",
+            "value": "import_export"
+        },
+        {
+            "text": "Inbox",
+            "value": "inbox"
+        },
+        {
+            "text": "Indeterminate Check Box",
+            "value": "indeterminate_check_box"
+        },
+        {
+            "text": "Info",
+            "value": "info"
+        },
+        {
+            "text": "Info Outline",
+            "value": "info_outline"
+        },
+        {
+            "text": "Input",
+            "value": "input"
+        },
+        {
+            "text": "Insert Chart",
+            "value": "insert_chart"
+        },
+        {
+            "text": "Insert Comment",
+            "value": "insert_comment"
+        },
+        {
+            "text": "Insert Drive File",
+            "value": "insert_drive_file"
+        },
+        {
+            "text": "Insert Emoticon",
+            "value": "insert_emoticon"
+        },
+        {
+            "text": "Insert Invitation",
+            "value": "insert_invitation"
+        },
+        {
+            "text": "Insert Link",
+            "value": "insert_link"
+        },
+        {
+            "text": "Insert Photo",
+            "value": "insert_photo"
+        },
+        {
+            "text": "Invert Colors",
+            "value": "invert_colors"
+        },
+        {
+            "text": "Invert Colors Off",
+            "value": "invert_colors_off"
+        },
+        {
+            "text": "Iso",
+            "value": "iso"
+        },
+        {
+            "text": "Keyboard",
+            "value": "keyboard"
+        },
+        {
+            "text": "Keyboard Arrow Down",
+            "value": "keyboard_arrow_down"
+        },
+        {
+            "text": "Keyboard Arrow Left",
+            "value": "keyboard_arrow_left"
+        },
+        {
+            "text": "Keyboard Arrow Right",
+            "value": "keyboard_arrow_right"
+        },
+        {
+            "text": "Keyboard Arrow Up",
+            "value": "keyboard_arrow_up"
+        },
+        {
+            "text": "Keyboard Backspace",
+            "value": "keyboard_backspace"
+        },
+        {
+            "text": "Keyboard Capslock",
+            "value": "keyboard_capslock"
+        },
+        {
+            "text": "Keyboard Hide",
+            "value": "keyboard_hide"
+        },
+        {
+            "text": "Keyboard Return",
+            "value": "keyboard_return"
+        },
+        {
+            "text": "Keyboard Tab",
+            "value": "keyboard_tab"
+        },
+        {
+            "text": "Keyboard Voice",
+            "value": "keyboard_voice"
+        },
+        {
+            "text": "Kitchen",
+            "value": "kitchen"
+        },
+        {
+            "text": "Label",
+            "value": "label"
+        },
+        {
+            "text": "Label Outline",
+            "value": "label_outline"
+        },
+        {
+            "text": "Landscape",
+            "value": "landscape"
+        },
+        {
+            "text": "Language",
+            "value": "language"
+        },
+        {
+            "text": "Laptop",
+            "value": "laptop"
+        },
+        {
+            "text": "Laptop Chromebook",
+            "value": "laptop_chromebook"
+        },
+        {
+            "text": "Laptop Mac",
+            "value": "laptop_mac"
+        },
+        {
+            "text": "Laptop Windows",
+            "value": "laptop_windows"
+        },
+        {
+            "text": "Last Page",
+            "value": "last_page"
+        },
+        {
+            "text": "Launch",
+            "value": "launch"
+        },
+        {
+            "text": "Layers",
+            "value": "layers"
+        },
+        {
+            "text": "Layers Clear",
+            "value": "layers_clear"
+        },
+        {
+            "text": "Leak Add",
+            "value": "leak_add"
+        },
+        {
+            "text": "Leak Remove",
+            "value": "leak_remove"
+        },
+        {
+            "text": "Lens",
+            "value": "lens"
+        },
+        {
+            "text": "Library Add",
+            "value": "library_add"
+        },
+        {
+            "text": "Library Books",
+            "value": "library_books"
+        },
+        {
+            "text": "Library Music",
+            "value": "library_music"
+        },
+        {
+            "text": "Lightbulb Outline",
+            "value": "lightbulb_outline"
+        },
+        {
+            "text": "Linear Scale",
+            "value": "linear_scale"
+        },
+        {
+            "text": "Line Style",
+            "value": "line_style"
+        },
+        {
+            "text": "Line Weight",
+            "value": "line_weight"
+        },
+        {
+            "text": "Link",
+            "value": "link"
+        },
+        {
+            "text": "Linked Camera",
+            "value": "linked_camera"
+        },
+        {
+            "text": "List",
+            "value": "list"
+        },
+        {
+            "text": "Live Help",
+            "value": "live_help"
+        },
+        {
+            "text": "Live Tv",
+            "value": "live_tv"
+        },
+        {
+            "text": "Local Activity",
+            "value": "local_activity"
+        },
+        {
+            "text": "Local Airport",
+            "value": "local_airport"
+        },
+        {
+            "text": "Local Atm",
+            "value": "local_atm"
+        },
+        {
+            "text": "Local Bar",
+            "value": "local_bar"
+        },
+        {
+            "text": "Local Cafe",
+            "value": "local_cafe"
+        },
+        {
+            "text": "Local Car Wash",
+            "value": "local_car_wash"
+        },
+        {
+            "text": "Local Convenience Store",
+            "value": "local_convenience_store"
+        },
+        {
+            "text": "Local Dining",
+            "value": "local_dining"
+        },
+        {
+            "text": "Local Drink",
+            "value": "local_drink"
+        },
+        {
+            "text": "Local Florist",
+            "value": "local_florist"
+        },
+        {
+            "text": "Local Gas Station",
+            "value": "local_gas_station"
+        },
+        {
+            "text": "Local Grocery Store",
+            "value": "local_grocery_store"
+        },
+        {
+            "text": "Local Hospital",
+            "value": "local_hospital"
+        },
+        {
+            "text": "Local Hotel",
+            "value": "local_hotel"
+        },
+        {
+            "text": "Local Laundry Service",
+            "value": "local_laundry_service"
+        },
+        {
+            "text": "Local Library",
+            "value": "local_library"
+        },
+        {
+            "text": "Local Mall",
+            "value": "local_mall"
+        },
+        {
+            "text": "Local Movies",
+            "value": "local_movies"
+        },
+        {
+            "text": "Local Offer",
+            "value": "local_offer"
+        },
+        {
+            "text": "Local Parking",
+            "value": "local_parking"
+        },
+        {
+            "text": "Local Pharmacy",
+            "value": "local_pharmacy"
+        },
+        {
+            "text": "Local Phone",
+            "value": "local_phone"
+        },
+        {
+            "text": "Local Pizza",
+            "value": "local_pizza"
+        },
+        {
+            "text": "Local Play",
+            "value": "local_play"
+        },
+        {
+            "text": "Local Post Office",
+            "value": "local_post_office"
+        },
+        {
+            "text": "Local Printshop",
+            "value": "local_printshop"
+        },
+        {
+            "text": "Local See",
+            "value": "local_see"
+        },
+        {
+            "text": "Local Shipping",
+            "value": "local_shipping"
+        },
+        {
+            "text": "Local Taxi",
+            "value": "local_taxi"
+        },
+        {
+            "text": "Location City",
+            "value": "location_city"
+        },
+        {
+            "text": "Location Disabled",
+            "value": "location_disabled"
+        },
+        {
+            "text": "Location Off",
+            "value": "location_off"
+        },
+        {
+            "text": "Location On",
+            "value": "location_on"
+        },
+        {
+            "text": "Location Searching",
+            "value": "location_searching"
+        },
+        {
+            "text": "Lock",
+            "value": "lock"
+        },
+        {
+            "text": "Lock Open",
+            "value": "lock_open"
+        },
+        {
+            "text": "Lock Outline",
+            "value": "lock_outline"
+        },
+        {
+            "text": "Looks",
+            "value": "looks"
+        },
+        {
+            "text": "Looks 3",
+            "value": "looks_3"
+        },
+        {
+            "text": "Looks 4",
+            "value": "looks_4"
+        },
+        {
+            "text": "Looks 5",
+            "value": "looks_5"
+        },
+        {
+            "text": "Looks 6",
+            "value": "looks_6"
+        },
+        {
+            "text": "Looks One",
+            "value": "looks_one"
+        },
+        {
+            "text": "Looks Two",
+            "value": "looks_two"
+        },
+        {
+            "text": "Loop",
+            "value": "loop"
+        },
+        {
+            "text": "Loupe",
+            "value": "loupe"
+        },
+        {
+            "text": "Low Priority",
+            "value": "low_priority"
+        },
+        {
+            "text": "Loyalty",
+            "value": "loyalty"
+        },
+        {
+            "text": "Mail",
+            "value": "mail"
+        },
+        {
+            "text": "Mail Outline",
+            "value": "mail_outline"
+        },
+        {
+            "text": "Map",
+            "value": "map"
+        },
+        {
+            "text": "Markunread",
+            "value": "markunread"
+        },
+        {
+            "text": "Markunread Mailbox",
+            "value": "markunread_mailbox"
+        },
+        {
+            "text": "Memory",
+            "value": "memory"
+        },
+        {
+            "text": "Menu",
+            "value": "menu"
+        },
+        {
+            "text": "Merge Type",
+            "value": "merge_type"
+        },
+        {
+            "text": "Message",
+            "value": "message"
+        },
+        {
+            "text": "Mic",
+            "value": "mic"
+        },
+        {
+            "text": "Mic None",
+            "value": "mic_none"
+        },
+        {
+            "text": "Mic Off",
+            "value": "mic_off"
+        },
+        {
+            "text": "Mms",
+            "value": "mms"
+        },
+        {
+            "text": "Mode Comment",
+            "value": "mode_comment"
+        },
+        {
+            "text": "Mode Edit",
+            "value": "mode_edit"
+        },
+        {
+            "text": "Monetization On",
+            "value": "monetization_on"
+        },
+        {
+            "text": "Money Off",
+            "value": "money_off"
+        },
+        {
+            "text": "Monochrome Photos",
+            "value": "monochrome_photos"
+        },
+        {
+            "text": "Mood",
+            "value": "mood"
+        },
+        {
+            "text": "Mood Bad",
+            "value": "mood_bad"
+        },
+        {
+            "text": "More",
+            "value": "more"
+        },
+        {
+            "text": "More Horiz",
+            "value": "more_horiz"
+        },
+        {
+            "text": "More Vert",
+            "value": "more_vert"
+        },
+        {
+            "text": "Motorcycle",
+            "value": "motorcycle"
+        },
+        {
+            "text": "Mouse",
+            "value": "mouse"
+        },
+        {
+            "text": "Move To Inbox",
+            "value": "move_to_inbox"
+        },
+        {
+            "text": "Movie",
+            "value": "movie"
+        },
+        {
+            "text": "Movie Creation",
+            "value": "movie_creation"
+        },
+        {
+            "text": "Movie Filter",
+            "value": "movie_filter"
+        },
+        {
+            "text": "Multiline Chart",
+            "value": "multiline_chart"
+        },
+        {
+            "text": "Music Note",
+            "value": "music_note"
+        },
+        {
+            "text": "Music Video",
+            "value": "music_video"
+        },
+        {
+            "text": "My Location",
+            "value": "my_location"
+        },
+        {
+            "text": "Nature",
+            "value": "nature"
+        },
+        {
+            "text": "Nature People",
+            "value": "nature_people"
+        },
+        {
+            "text": "Navigate Before",
+            "value": "navigate_before"
+        },
+        {
+            "text": "Navigate Next",
+            "value": "navigate_next"
+        },
+        {
+            "text": "Navigation",
+            "value": "navigation"
+        },
+        {
+            "text": "Near Me",
+            "value": "near_me"
+        },
+        {
+            "text": "Network Cell",
+            "value": "network_cell"
+        },
+        {
+            "text": "Network Check",
+            "value": "network_check"
+        },
+        {
+            "text": "Network Locked",
+            "value": "network_locked"
+        },
+        {
+            "text": "Network Wifi",
+            "value": "network_wifi"
+        },
+        {
+            "text": "New Releases",
+            "value": "new_releases"
+        },
+        {
+            "text": "Next Week",
+            "value": "next_week"
+        },
+        {
+            "text": "Nfc",
+            "value": "nfc"
+        },
+        {
+            "text": "Note",
+            "value": "note"
+        },
+        {
+            "text": "Note Add",
+            "value": "note_add"
+        },
+        {
+            "text": "Notifications",
+            "value": "notifications"
+        },
+        {
+            "text": "Notifications Active",
+            "value": "notifications_active"
+        },
+        {
+            "text": "Notifications None",
+            "value": "notifications_none"
+        },
+        {
+            "text": "Notifications Off",
+            "value": "notifications_off"
+        },
+        {
+            "text": "Notifications Paused",
+            "value": "notifications_paused"
+        },
+        {
+            "text": "Not Interested",
+            "value": "not_interested"
+        },
+        {
+            "text": "No Encryption",
+            "value": "no_encryption"
+        },
+        {
+            "text": "No Sim",
+            "value": "no_sim"
+        },
+        {
+            "text": "Offline Pin",
+            "value": "offline_pin"
+        },
+        {
+            "text": "Ondemand Video",
+            "value": "ondemand_video"
+        },
+        {
+            "text": "Opacity",
+            "value": "opacity"
+        },
+        {
+            "text": "Open In Browser",
+            "value": "open_in_browser"
+        },
+        {
+            "text": "Open In New",
+            "value": "open_in_new"
+        },
+        {
+            "text": "Open With",
+            "value": "open_with"
+        },
+        {
+            "text": "Pages",
+            "value": "pages"
+        },
+        {
+            "text": "Pageview",
+            "value": "pageview"
+        },
+        {
+            "text": "Palette",
+            "value": "palette"
+        },
+        {
+            "text": "Panorama",
+            "value": "panorama"
+        },
+        {
+            "text": "Panorama Fish Eye",
+            "value": "panorama_fish_eye"
+        },
+        {
+            "text": "Panorama Horizontal",
+            "value": "panorama_horizontal"
+        },
+        {
+            "text": "Panorama Vertical",
+            "value": "panorama_vertical"
+        },
+        {
+            "text": "Panorama Wide Angle",
+            "value": "panorama_wide_angle"
+        },
+        {
+            "text": "Pan Tool",
+            "value": "pan_tool"
+        },
+        {
+            "text": "Party Mode",
+            "value": "party_mode"
+        },
+        {
+            "text": "Pause",
+            "value": "pause"
+        },
+        {
+            "text": "Pause Circle Filled",
+            "value": "pause_circle_filled"
+        },
+        {
+            "text": "Pause Circle Outline",
+            "value": "pause_circle_outline"
+        },
+        {
+            "text": "Payment",
+            "value": "payment"
+        },
+        {
+            "text": "People",
+            "value": "people"
+        },
+        {
+            "text": "People Outline",
+            "value": "people_outline"
+        },
+        {
+            "text": "Perm Camera Mic",
+            "value": "perm_camera_mic"
+        },
+        {
+            "text": "Perm Contact Calendar",
+            "value": "perm_contact_calendar"
+        },
+        {
+            "text": "Perm Data Setting",
+            "value": "perm_data_setting"
+        },
+        {
+            "text": "Perm Device Information",
+            "value": "perm_device_information"
+        },
+        {
+            "text": "Perm Identity",
+            "value": "perm_identity"
+        },
+        {
+            "text": "Perm Media",
+            "value": "perm_media"
+        },
+        {
+            "text": "Perm Phone Msg",
+            "value": "perm_phone_msg"
+        },
+        {
+            "text": "Perm Scan Wifi",
+            "value": "perm_scan_wifi"
+        },
+        {
+            "text": "Person",
+            "value": "person"
+        },
+        {
+            "text": "Personal Video",
+            "value": "personal_video"
+        },
+        {
+            "text": "Person Add",
+            "value": "person_add"
+        },
+        {
+            "text": "Person Outline",
+            "value": "person_outline"
+        },
+        {
+            "text": "Person Pin",
+            "value": "person_pin"
+        },
+        {
+            "text": "Person Pin Circle",
+            "value": "person_pin_circle"
+        },
+        {
+            "text": "Pets",
+            "value": "pets"
+        },
+        {
+            "text": "Phone",
+            "value": "phone"
+        },
+        {
+            "text": "Phonelink",
+            "value": "phonelink"
+        },
+        {
+            "text": "Phonelink Erase",
+            "value": "phonelink_erase"
+        },
+        {
+            "text": "Phonelink Lock",
+            "value": "phonelink_lock"
+        },
+        {
+            "text": "Phonelink Off",
+            "value": "phonelink_off"
+        },
+        {
+            "text": "Phonelink Ring",
+            "value": "phonelink_ring"
+        },
+        {
+            "text": "Phonelink Setup",
+            "value": "phonelink_setup"
+        },
+        {
+            "text": "Phone Android",
+            "value": "phone_android"
+        },
+        {
+            "text": "Phone Bluetooth Speaker",
+            "value": "phone_bluetooth_speaker"
+        },
+        {
+            "text": "Phone Forwarded",
+            "value": "phone_forwarded"
+        },
+        {
+            "text": "Phone In Talk",
+            "value": "phone_in_talk"
+        },
+        {
+            "text": "Phone Iphone",
+            "value": "phone_iphone"
+        },
+        {
+            "text": "Phone Locked",
+            "value": "phone_locked"
+        },
+        {
+            "text": "Phone Missed",
+            "value": "phone_missed"
+        },
+        {
+            "text": "Phone Paused",
+            "value": "phone_paused"
+        },
+        {
+            "text": "Photo",
+            "value": "photo"
+        },
+        {
+            "text": "Photo Album",
+            "value": "photo_album"
+        },
+        {
+            "text": "Photo Camera",
+            "value": "photo_camera"
+        },
+        {
+            "text": "Photo Filter",
+            "value": "photo_filter"
+        },
+        {
+            "text": "Photo Library",
+            "value": "photo_library"
+        },
+        {
+            "text": "Photo Size Select Actual",
+            "value": "photo_size_select_actual"
+        },
+        {
+            "text": "Photo Size Select Large",
+            "value": "photo_size_select_large"
+        },
+        {
+            "text": "Photo Size Select Small",
+            "value": "photo_size_select_small"
+        },
+        {
+            "text": "Picture As Pdf",
+            "value": "picture_as_pdf"
+        },
+        {
+            "text": "Picture In Picture",
+            "value": "picture_in_picture"
+        },
+        {
+            "text": "Picture In Picture Alt",
+            "value": "picture_in_picture_alt"
+        },
+        {
+            "text": "Pie Chart",
+            "value": "pie_chart"
+        },
+        {
+            "text": "Pie Chart Outlined",
+            "value": "pie_chart_outlined"
+        },
+        {
+            "text": "Pin Drop",
+            "value": "pin_drop"
+        },
+        {
+            "text": "Place",
+            "value": "place"
+        },
+        {
+            "text": "Playlist Add",
+            "value": "playlist_add"
+        },
+        {
+            "text": "Playlist Add Check",
+            "value": "playlist_add_check"
+        },
+        {
+            "text": "Playlist Play",
+            "value": "playlist_play"
+        },
+        {
+            "text": "Play Arrow",
+            "value": "play_arrow"
+        },
+        {
+            "text": "Play Circle Filled",
+            "value": "play_circle_filled"
+        },
+        {
+            "text": "Play Circle Outline",
+            "value": "play_circle_outline"
+        },
+        {
+            "text": "Play For Work",
+            "value": "play_for_work"
+        },
+        {
+            "text": "Plus One",
+            "value": "plus_one"
+        },
+        {
+            "text": "Poll",
+            "value": "poll"
+        },
+        {
+            "text": "Polymer",
+            "value": "polymer"
+        },
+        {
+            "text": "Pool",
+            "value": "pool"
+        },
+        {
+            "text": "Portable Wifi Off",
+            "value": "portable_wifi_off"
+        },
+        {
+            "text": "Portrait",
+            "value": "portrait"
+        },
+        {
+            "text": "Power",
+            "value": "power"
+        },
+        {
+            "text": "Power Input",
+            "value": "power_input"
+        },
+        {
+            "text": "Power Settings New",
+            "value": "power_settings_new"
+        },
+        {
+            "text": "Pregnant Woman",
+            "value": "pregnant_woman"
+        },
+        {
+            "text": "Present To All",
+            "value": "present_to_all"
+        },
+        {
+            "text": "Print",
+            "value": "print"
+        },
+        {
+            "text": "Priority High",
+            "value": "priority_high"
+        },
+        {
+            "text": "Public",
+            "value": "public"
+        },
+        {
+            "text": "Publish",
+            "value": "publish"
+        },
+        {
+            "text": "Query Builder",
+            "value": "query_builder"
+        },
+        {
+            "text": "Question Answer",
+            "value": "question_answer"
+        },
+        {
+            "text": "Queue",
+            "value": "queue"
+        },
+        {
+            "text": "Queue Music",
+            "value": "queue_music"
+        },
+        {
+            "text": "Queue Play Next",
+            "value": "queue_play_next"
+        },
+        {
+            "text": "Radio",
+            "value": "radio"
+        },
+        {
+            "text": "Radio Button Checked",
+            "value": "radio_button_checked"
+        },
+        {
+            "text": "Radio Button Unchecked",
+            "value": "radio_button_unchecked"
+        },
+        {
+            "text": "Rate Review",
+            "value": "rate_review"
+        },
+        {
+            "text": "Receipt",
+            "value": "receipt"
+        },
+        {
+            "text": "Recent Actors",
+            "value": "recent_actors"
+        },
+        {
+            "text": "Record Voice Over",
+            "value": "record_voice_over"
+        },
+        {
+            "text": "Redeem",
+            "value": "redeem"
+        },
+        {
+            "text": "Redo",
+            "value": "redo"
+        },
+        {
+            "text": "Refresh",
+            "value": "refresh"
+        },
+        {
+            "text": "Remove",
+            "value": "remove"
+        },
+        {
+            "text": "Remove Circle",
+            "value": "remove_circle"
+        },
+        {
+            "text": "Remove Circle Outline",
+            "value": "remove_circle_outline"
+        },
+        {
+            "text": "Remove From Queue",
+            "value": "remove_from_queue"
+        },
+        {
+            "text": "Remove Red Eye",
+            "value": "remove_red_eye"
+        },
+        {
+            "text": "Remove Shopping Cart",
+            "value": "remove_shopping_cart"
+        },
+        {
+            "text": "Reorder",
+            "value": "reorder"
+        },
+        {
+            "text": "Repeat",
+            "value": "repeat"
+        },
+        {
+            "text": "Repeat One",
+            "value": "repeat_one"
+        },
+        {
+            "text": "Replay",
+            "value": "replay"
+        },
+        {
+            "text": "Replay 10",
+            "value": "replay_10"
+        },
+        {
+            "text": "Replay 30",
+            "value": "replay_30"
+        },
+        {
+            "text": "Replay 5",
+            "value": "replay_5"
+        },
+        {
+            "text": "Reply",
+            "value": "reply"
+        },
+        {
+            "text": "Reply All",
+            "value": "reply_all"
+        },
+        {
+            "text": "Report",
+            "value": "report"
+        },
+        {
+            "text": "Report Problem",
+            "value": "report_problem"
+        },
+        {
+            "text": "Restaurant",
+            "value": "restaurant"
+        },
+        {
+            "text": "Restaurant Menu",
+            "value": "restaurant_menu"
+        },
+        {
+            "text": "Restore",
+            "value": "restore"
+        },
+        {
+            "text": "Restore Page",
+            "value": "restore_page"
+        },
+        {
+            "text": "Ring Volume",
+            "value": "ring_volume"
+        },
+        {
+            "text": "Room",
+            "value": "room"
+        },
+        {
+            "text": "Room Service",
+            "value": "room_service"
+        },
+        {
+            "text": "Rotate 90 Degrees Ccw",
+            "value": "rotate_90_degrees_ccw"
+        },
+        {
+            "text": "Rotate Left",
+            "value": "rotate_left"
+        },
+        {
+            "text": "Rotate Right",
+            "value": "rotate_right"
+        },
+        {
+            "text": "Rounded Corner",
+            "value": "rounded_corner"
+        },
+        {
+            "text": "Router",
+            "value": "router"
+        },
+        {
+            "text": "Rowing",
+            "value": "rowing"
+        },
+        {
+            "text": "Rss Feed",
+            "value": "rss_feed"
+        },
+        {
+            "text": "Rv Hookup",
+            "value": "rv_hookup"
+        },
+        {
+            "text": "Satellite",
+            "value": "satellite"
+        },
+        {
+            "text": "Save",
+            "value": "save"
+        },
+        {
+            "text": "Scanner",
+            "value": "scanner"
+        },
+        {
+            "text": "Schedule",
+            "value": "schedule"
+        },
+        {
+            "text": "School",
+            "value": "school"
+        },
+        {
+            "text": "Screen Lock Landscape",
+            "value": "screen_lock_landscape"
+        },
+        {
+            "text": "Screen Lock Portrait",
+            "value": "screen_lock_portrait"
+        },
+        {
+            "text": "Screen Lock Rotation",
+            "value": "screen_lock_rotation"
+        },
+        {
+            "text": "Screen Rotation",
+            "value": "screen_rotation"
+        },
+        {
+            "text": "Screen Share",
+            "value": "screen_share"
+        },
+        {
+            "text": "Sd Card",
+            "value": "sd_card"
+        },
+        {
+            "text": "Sd Storage",
+            "value": "sd_storage"
+        },
+        {
+            "text": "Search",
+            "value": "search"
+        },
+        {
+            "text": "Security",
+            "value": "security"
+        },
+        {
+            "text": "Select All",
+            "value": "select_all"
+        },
+        {
+            "text": "Send",
+            "value": "send"
+        },
+        {
+            "text": "Sentiment Dissatisfied",
+            "value": "sentiment_dissatisfied"
+        },
+        {
+            "text": "Sentiment Neutral",
+            "value": "sentiment_neutral"
+        },
+        {
+            "text": "Sentiment Satisfied",
+            "value": "sentiment_satisfied"
+        },
+        {
+            "text": "Sentiment Very Dissatisfied",
+            "value": "sentiment_very_dissatisfied"
+        },
+        {
+            "text": "Sentiment Very Satisfied",
+            "value": "sentiment_very_satisfied"
+        },
+        {
+            "text": "Settings",
+            "value": "settings"
+        },
+        {
+            "text": "Settings Applications",
+            "value": "settings_applications"
+        },
+        {
+            "text": "Settings Backup Restore",
+            "value": "settings_backup_restore"
+        },
+        {
+            "text": "Settings Bluetooth",
+            "value": "settings_bluetooth"
+        },
+        {
+            "text": "Settings Brightness",
+            "value": "settings_brightness"
+        },
+        {
+            "text": "Settings Cell",
+            "value": "settings_cell"
+        },
+        {
+            "text": "Settings Ethernet",
+            "value": "settings_ethernet"
+        },
+        {
+            "text": "Settings Input Antenna",
+            "value": "settings_input_antenna"
+        },
+        {
+            "text": "Settings Input Component",
+            "value": "settings_input_component"
+        },
+        {
+            "text": "Settings Input Composite",
+            "value": "settings_input_composite"
+        },
+        {
+            "text": "Settings Input Hdmi",
+            "value": "settings_input_hdmi"
+        },
+        {
+            "text": "Settings Input Svideo",
+            "value": "settings_input_svideo"
+        },
+        {
+            "text": "Settings Overscan",
+            "value": "settings_overscan"
+        },
+        {
+            "text": "Settings Phone",
+            "value": "settings_phone"
+        },
+        {
+            "text": "Settings Power",
+            "value": "settings_power"
+        },
+        {
+            "text": "Settings Remote",
+            "value": "settings_remote"
+        },
+        {
+            "text": "Settings System Daydream",
+            "value": "settings_system_daydream"
+        },
+        {
+            "text": "Settings Voice",
+            "value": "settings_voice"
+        },
+        {
+            "text": "Share",
+            "value": "share"
+        },
+        {
+            "text": "Shop",
+            "value": "shop"
+        },
+        {
+            "text": "Shopping Basket",
+            "value": "shopping_basket"
+        },
+        {
+            "text": "Shopping Cart",
+            "value": "shopping_cart"
+        },
+        {
+            "text": "Shop Two",
+            "value": "shop_two"
+        },
+        {
+            "text": "Short Text",
+            "value": "short_text"
+        },
+        {
+            "text": "Show Chart",
+            "value": "show_chart"
+        },
+        {
+            "text": "Shuffle",
+            "value": "shuffle"
+        },
+        {
+            "text": "Signal Cellular 0 Bar",
+            "value": "signal_cellular_0_bar"
+        },
+        {
+            "text": "Signal Cellular 1 Bar",
+            "value": "signal_cellular_1_bar"
+        },
+        {
+            "text": "Signal Cellular 2 Bar",
+            "value": "signal_cellular_2_bar"
+        },
+        {
+            "text": "Signal Cellular 3 Bar",
+            "value": "signal_cellular_3_bar"
+        },
+        {
+            "text": "Signal Cellular 4 Bar",
+            "value": "signal_cellular_4_bar"
+        },
+        {
+            "text": "Signal Cellular Connected No Internet 0 Bar",
+            "value": "signal_cellular_connected_no_internet_0_bar"
+        },
+        {
+            "text": "Signal Cellular Connected No Internet 1 Bar",
+            "value": "signal_cellular_connected_no_internet_1_bar"
+        },
+        {
+            "text": "Signal Cellular Connected No Internet 2 Bar",
+            "value": "signal_cellular_connected_no_internet_2_bar"
+        },
+        {
+            "text": "Signal Cellular Connected No Internet 3 Bar",
+            "value": "signal_cellular_connected_no_internet_3_bar"
+        },
+        {
+            "text": "Signal Cellular Connected No Internet 4 Bar",
+            "value": "signal_cellular_connected_no_internet_4_bar"
+        },
+        {
+            "text": "Signal Cellular No Sim",
+            "value": "signal_cellular_no_sim"
+        },
+        {
+            "text": "Signal Cellular Null",
+            "value": "signal_cellular_null"
+        },
+        {
+            "text": "Signal Cellular Off",
+            "value": "signal_cellular_off"
+        },
+        {
+            "text": "Signal Wifi 0 Bar",
+            "value": "signal_wifi_0_bar"
+        },
+        {
+            "text": "Signal Wifi 1 Bar",
+            "value": "signal_wifi_1_bar"
+        },
+        {
+            "text": "Signal Wifi 1 Bar Lock",
+            "value": "signal_wifi_1_bar_lock"
+        },
+        {
+            "text": "Signal Wifi 2 Bar",
+            "value": "signal_wifi_2_bar"
+        },
+        {
+            "text": "Signal Wifi 2 Bar Lock",
+            "value": "signal_wifi_2_bar_lock"
+        },
+        {
+            "text": "Signal Wifi 3 Bar",
+            "value": "signal_wifi_3_bar"
+        },
+        {
+            "text": "Signal Wifi 3 Bar Lock",
+            "value": "signal_wifi_3_bar_lock"
+        },
+        {
+            "text": "Signal Wifi 4 Bar",
+            "value": "signal_wifi_4_bar"
+        },
+        {
+            "text": "Signal Wifi 4 Bar Lock",
+            "value": "signal_wifi_4_bar_lock"
+        },
+        {
+            "text": "Signal Wifi Off",
+            "value": "signal_wifi_off"
+        },
+        {
+            "text": "Sim Card",
+            "value": "sim_card"
+        },
+        {
+            "text": "Sim Card Alert",
+            "value": "sim_card_alert"
+        },
+        {
+            "text": "Skip Next",
+            "value": "skip_next"
+        },
+        {
+            "text": "Skip Previous",
+            "value": "skip_previous"
+        },
+        {
+            "text": "Slideshow",
+            "value": "slideshow"
+        },
+        {
+            "text": "Slow Motion Video",
+            "value": "slow_motion_video"
+        },
+        {
+            "text": "Smartphone",
+            "value": "smartphone"
+        },
+        {
+            "text": "Smoke Free",
+            "value": "smoke_free"
+        },
+        {
+            "text": "Smoking Rooms",
+            "value": "smoking_rooms"
+        },
+        {
+            "text": "Sms",
+            "value": "sms"
+        },
+        {
+            "text": "Sms Failed",
+            "value": "sms_failed"
+        },
+        {
+            "text": "Snooze",
+            "value": "snooze"
+        },
+        {
+            "text": "Sort",
+            "value": "sort"
+        },
+        {
+            "text": "Sort By Alpha",
+            "value": "sort_by_alpha"
+        },
+        {
+            "text": "Spa",
+            "value": "spa"
+        },
+        {
+            "text": "Space Bar",
+            "value": "space_bar"
+        },
+        {
+            "text": "Speaker",
+            "value": "speaker"
+        },
+        {
+            "text": "Speaker Group",
+            "value": "speaker_group"
+        },
+        {
+            "text": "Speaker Notes",
+            "value": "speaker_notes"
+        },
+        {
+            "text": "Speaker Notes Off",
+            "value": "speaker_notes_off"
+        },
+        {
+            "text": "Speaker Phone",
+            "value": "speaker_phone"
+        },
+        {
+            "text": "Spellcheck",
+            "value": "spellcheck"
+        },
+        {
+            "text": "Star",
+            "value": "star"
+        },
+        {
+            "text": "Stars",
+            "value": "stars"
+        },
+        {
+            "text": "Star Border",
+            "value": "star_border"
+        },
+        {
+            "text": "Star Half",
+            "value": "star_half"
+        },
+        {
+            "text": "Stay Current Landscape",
+            "value": "stay_current_landscape"
+        },
+        {
+            "text": "Stay Current Portrait",
+            "value": "stay_current_portrait"
+        },
+        {
+            "text": "Stay Primary Landscape",
+            "value": "stay_primary_landscape"
+        },
+        {
+            "text": "Stay Primary Portrait",
+            "value": "stay_primary_portrait"
+        },
+        {
+            "text": "Stop",
+            "value": "stop"
+        },
+        {
+            "text": "Stop Screen Share",
+            "value": "stop_screen_share"
+        },
+        {
+            "text": "Storage",
+            "value": "storage"
+        },
+        {
+            "text": "Store",
+            "value": "store"
+        },
+        {
+            "text": "Store Mall Directory",
+            "value": "store_mall_directory"
+        },
+        {
+            "text": "Straighten",
+            "value": "straighten"
+        },
+        {
+            "text": "Streetview",
+            "value": "streetview"
+        },
+        {
+            "text": "Strikethrough S",
+            "value": "strikethrough_s"
+        },
+        {
+            "text": "Style",
+            "value": "style"
+        },
+        {
+            "text": "Subdirectory Arrow Left",
+            "value": "subdirectory_arrow_left"
+        },
+        {
+            "text": "Subdirectory Arrow Right",
+            "value": "subdirectory_arrow_right"
+        },
+        {
+            "text": "Subject",
+            "value": "subject"
+        },
+        {
+            "text": "Subscriptions",
+            "value": "subscriptions"
+        },
+        {
+            "text": "Subtitles",
+            "value": "subtitles"
+        },
+        {
+            "text": "Subway",
+            "value": "subway"
+        },
+        {
+            "text": "Supervisor Account",
+            "value": "supervisor_account"
+        },
+        {
+            "text": "Surround Sound",
+            "value": "surround_sound"
+        },
+        {
+            "text": "Swap Calls",
+            "value": "swap_calls"
+        },
+        {
+            "text": "Swap Horiz",
+            "value": "swap_horiz"
+        },
+        {
+            "text": "Swap Vert",
+            "value": "swap_vert"
+        },
+        {
+            "text": "Swap Vertical Circle",
+            "value": "swap_vertical_circle"
+        },
+        {
+            "text": "Switch Camera",
+            "value": "switch_camera"
+        },
+        {
+            "text": "Switch Video",
+            "value": "switch_video"
+        },
+        {
+            "text": "Sync",
+            "value": "sync"
+        },
+        {
+            "text": "Sync Disabled",
+            "value": "sync_disabled"
+        },
+        {
+            "text": "Sync Problem",
+            "value": "sync_problem"
+        },
+        {
+            "text": "System Update",
+            "value": "system_update"
+        },
+        {
+            "text": "System Update Alt",
+            "value": "system_update_alt"
+        },
+        {
+            "text": "Tab",
+            "value": "tab"
+        },
+        {
+            "text": "Tablet",
+            "value": "tablet"
+        },
+        {
+            "text": "Tablet Android",
+            "value": "tablet_android"
+        },
+        {
+            "text": "Tablet Mac",
+            "value": "tablet_mac"
+        },
+        {
+            "text": "Tab Unselected",
+            "value": "tab_unselected"
+        },
+        {
+            "text": "Tag Faces",
+            "value": "tag_faces"
+        },
+        {
+            "text": "Tap And Play",
+            "value": "tap_and_play"
+        },
+        {
+            "text": "Terrain",
+            "value": "terrain"
+        },
+        {
+            "text": "Textsms",
+            "value": "textsms"
+        },
+        {
+            "text": "Texture",
+            "value": "texture"
+        },
+        {
+            "text": "Text Fields",
+            "value": "text_fields"
+        },
+        {
+            "text": "Text Format",
+            "value": "text_format"
+        },
+        {
+            "text": "Theaters",
+            "value": "theaters"
+        },
+        {
+            "text": "Thumbs Up Down",
+            "value": "thumbs_up_down"
+        },
+        {
+            "text": "Thumb Down",
+            "value": "thumb_down"
+        },
+        {
+            "text": "Thumb Up",
+            "value": "thumb_up"
+        },
+        {
+            "text": "Timelapse",
+            "value": "timelapse"
+        },
+        {
+            "text": "Timeline",
+            "value": "timeline"
+        },
+        {
+            "text": "Timer",
+            "value": "timer"
+        },
+        {
+            "text": "Timer 10",
+            "value": "timer_10"
+        },
+        {
+            "text": "Timer 3",
+            "value": "timer_3"
+        },
+        {
+            "text": "Timer Off",
+            "value": "timer_off"
+        },
+        {
+            "text": "Time To Leave",
+            "value": "time_to_leave"
+        },
+        {
+            "text": "Title",
+            "value": "title"
+        },
+        {
+            "text": "Toc",
+            "value": "toc"
+        },
+        {
+            "text": "Today",
+            "value": "today"
+        },
+        {
+            "text": "Toll",
+            "value": "toll"
+        },
+        {
+            "text": "Tonality",
+            "value": "tonality"
+        },
+        {
+            "text": "Touch App",
+            "value": "touch_app"
+        },
+        {
+            "text": "Toys",
+            "value": "toys"
+        },
+        {
+            "text": "Track Changes",
+            "value": "track_changes"
+        },
+        {
+            "text": "Traffic",
+            "value": "traffic"
+        },
+        {
+            "text": "Train",
+            "value": "train"
+        },
+        {
+            "text": "Tram",
+            "value": "tram"
+        },
+        {
+            "text": "Transfer Within A Station",
+            "value": "transfer_within_a_station"
+        },
+        {
+            "text": "Transform",
+            "value": "transform"
+        },
+        {
+            "text": "Translate",
+            "value": "translate"
+        },
+        {
+            "text": "Trending Down",
+            "value": "trending_down"
+        },
+        {
+            "text": "Trending Flat",
+            "value": "trending_flat"
+        },
+        {
+            "text": "Trending Up",
+            "value": "trending_up"
+        },
+        {
+            "text": "Tune",
+            "value": "tune"
+        },
+        {
+            "text": "Turned In",
+            "value": "turned_in"
+        },
+        {
+            "text": "Turned In Not",
+            "value": "turned_in_not"
+        },
+        {
+            "text": "Tv",
+            "value": "tv"
+        },
+        {
+            "text": "Unarchive",
+            "value": "unarchive"
+        },
+        {
+            "text": "Undo",
+            "value": "undo"
+        },
+        {
+            "text": "Unfold Less",
+            "value": "unfold_less"
+        },
+        {
+            "text": "Unfold More",
+            "value": "unfold_more"
+        },
+        {
+            "text": "Update",
+            "value": "update"
+        },
+        {
+            "text": "Usb",
+            "value": "usb"
+        },
+        {
+            "text": "Verified User",
+            "value": "verified_user"
+        },
+        {
+            "text": "Vertical Align Bottom",
+            "value": "vertical_align_bottom"
+        },
+        {
+            "text": "Vertical Align Center",
+            "value": "vertical_align_center"
+        },
+        {
+            "text": "Vertical Align Top",
+            "value": "vertical_align_top"
+        },
+        {
+            "text": "Vibration",
+            "value": "vibration"
+        },
+        {
+            "text": "Videocam",
+            "value": "videocam"
+        },
+        {
+            "text": "Videocam Off",
+            "value": "videocam_off"
+        },
+        {
+            "text": "Videogame Asset",
+            "value": "videogame_asset"
+        },
+        {
+            "text": "Video Call",
+            "value": "video_call"
+        },
+        {
+            "text": "Video Label",
+            "value": "video_label"
+        },
+        {
+            "text": "Video Library",
+            "value": "video_library"
+        },
+        {
+            "text": "View Agenda",
+            "value": "view_agenda"
+        },
+        {
+            "text": "View Array",
+            "value": "view_array"
+        },
+        {
+            "text": "View Carousel",
+            "value": "view_carousel"
+        },
+        {
+            "text": "View Column",
+            "value": "view_column"
+        },
+        {
+            "text": "View Comfy",
+            "value": "view_comfy"
+        },
+        {
+            "text": "View Compact",
+            "value": "view_compact"
+        },
+        {
+            "text": "View Day",
+            "value": "view_day"
+        },
+        {
+            "text": "View Headline",
+            "value": "view_headline"
+        },
+        {
+            "text": "View List",
+            "value": "view_list"
+        },
+        {
+            "text": "View Module",
+            "value": "view_module"
+        },
+        {
+            "text": "View Quilt",
+            "value": "view_quilt"
+        },
+        {
+            "text": "View Stream",
+            "value": "view_stream"
+        },
+        {
+            "text": "View Week",
+            "value": "view_week"
+        },
+        {
+            "text": "Vignette",
+            "value": "vignette"
+        },
+        {
+            "text": "Visibility",
+            "value": "visibility"
+        },
+        {
+            "text": "Visibility Off",
+            "value": "visibility_off"
+        },
+        {
+            "text": "Voicemail",
+            "value": "voicemail"
+        },
+        {
+            "text": "Voice Chat",
+            "value": "voice_chat"
+        },
+        {
+            "text": "Volume Down",
+            "value": "volume_down"
+        },
+        {
+            "text": "Volume Mute",
+            "value": "volume_mute"
+        },
+        {
+            "text": "Volume Off",
+            "value": "volume_off"
+        },
+        {
+            "text": "Volume Up",
+            "value": "volume_up"
+        },
+        {
+            "text": "Vpn Key",
+            "value": "vpn_key"
+        },
+        {
+            "text": "Vpn Lock",
+            "value": "vpn_lock"
+        },
+        {
+            "text": "Wallpaper",
+            "value": "wallpaper"
+        },
+        {
+            "text": "Warning",
+            "value": "warning"
+        },
+        {
+            "text": "Watch",
+            "value": "watch"
+        },
+        {
+            "text": "Watch Later",
+            "value": "watch_later"
+        },
+        {
+            "text": "Wb Auto",
+            "value": "wb_auto"
+        },
+        {
+            "text": "Wb Cloudy",
+            "value": "wb_cloudy"
+        },
+        {
+            "text": "Wb Incandescent",
+            "value": "wb_incandescent"
+        },
+        {
+            "text": "Wb Iridescent",
+            "value": "wb_iridescent"
+        },
+        {
+            "text": "Wb Sunny",
+            "value": "wb_sunny"
+        },
+        {
+            "text": "Wc",
+            "value": "wc"
+        },
+        {
+            "text": "Web",
+            "value": "web"
+        },
+        {
+            "text": "Web Asset",
+            "value": "web_asset"
+        },
+        {
+            "text": "Weekend",
+            "value": "weekend"
+        },
+        {
+            "text": "Whatshot",
+            "value": "whatshot"
+        },
+        {
+            "text": "Widgets",
+            "value": "widgets"
+        },
+        {
+            "text": "Wifi",
+            "value": "wifi"
+        },
+        {
+            "text": "Wifi Lock",
+            "value": "wifi_lock"
+        },
+        {
+            "text": "Wifi Tethering",
+            "value": "wifi_tethering"
+        },
+        {
+            "text": "Work",
+            "value": "work"
+        },
+        {
+            "text": "Wrap Text",
+            "value": "wrap_text"
+        },
+        {
+            "text": "Youtube Searched For",
+            "value": "youtube_searched_for"
+        },
+        {
+            "text": "Zoom In",
+            "value": "zoom_in"
+        },
+        {
+            "text": "Zoom Out",
+            "value": "zoom_out"
+        },
+        {
+            "text": "Zoom Out Map",
+            "value": "zoom_out_map"
+        }
+    ],
+    "regular": [
+        {
+            "text": "Action Chains",
+            "value": "action_chains"
+        },
+        {
+            "text": "Activate Subscriptions",
+            "value": "activate_subscriptions"
+        },
+        {
+            "text": "Admin",
+            "value": "admin"
+        },
+        {
+            "text": "Api",
+            "value": "api"
+        },
+        {
+            "text": "Application",
+            "value": "application"
+        },
+        {
+            "text": "Application Incomplete",
+            "value": "application_incomplete"
+        },
+        {
+            "text": "Application Instance",
+            "value": "application_instance"
+        },
+        {
+            "text": "Autoinstallation",
+            "value": "autoinstallation"
+        },
+        {
+            "text": "Background Tasks",
+            "value": "background_tasks"
+        },
+        {
+            "text": "Bootstrapping",
+            "value": "bootstrapping"
+        },
+        {
+            "text": "Cleanup",
+            "value": "cleanup"
+        },
+        {
+            "text": "Cloud Foundry Space",
+            "value": "cloud_foundry_space"
+        },
+        {
+            "text": "Cluster Role",
+            "value": "cluster_role"
+        },
+        {
+            "text": "Collocation",
+            "value": "collocation"
+        },
+        {
+            "text": "Configuration File",
+            "value": "configuration_file"
+        },
+        {
+            "text": "Config Map",
+            "value": "config_map"
+        },
+        {
+            "text": "Constraint",
+            "value": "constraint"
+        },
+        {
+            "text": "Container",
+            "value": "container"
+        },
+        {
+            "text": "Content Lifecycle Management",
+            "value": "content_lifecycle_management"
+        },
+        {
+            "text": "Counting",
+            "value": "counting"
+        },
+        {
+            "text": "Critical Bug",
+            "value": "critical_bug"
+        },
+        {
+            "text": "Cronjob",
+            "value": "cronjob"
+        },
+        {
+            "text": "Csv File",
+            "value": "csv_file"
+        },
+        {
+            "text": "Daemon",
+            "value": "daemon"
+        },
+        {
+            "text": "Daemon Set",
+            "value": "daemon_set"
+        },
+        {
+            "text": "Deploy",
+            "value": "deploy"
+        },
+        {
+            "text": "Endpoints",
+            "value": "endpoints"
+        },
+        {
+            "text": "Endpoints Connected",
+            "value": "endpoints_connected"
+        },
+        {
+            "text": "Endpoints Disconnected",
+            "value": "endpoints_disconnected"
+        },
+        {
+            "text": "Enhancement",
+            "value": "enhancement"
+        },
+        {
+            "text": "File System",
+            "value": "file_system"
+        },
+        {
+            "text": "Inbound",
+            "value": "inbound"
+        },
+        {
+            "text": "Job",
+            "value": "job"
+        },
+        {
+            "text": "Miscellaneous",
+            "value": "miscellaneous"
+        },
+        {
+            "text": "Modified Date",
+            "value": "modified_date"
+        },
+        {
+            "text": "Molecules",
+            "value": "molecules"
+        },
+        {
+            "text": "Move",
+            "value": "move"
+        },
+        {
+            "text": "Multistate",
+            "value": "multistate"
+        },
+        {
+            "text": "Network File System",
+            "value": "network_file_system"
+        },
+        {
+            "text": "Node",
+            "value": "node"
+        },
+        {
+            "text": "Organisms",
+            "value": "organisms"
+        },
+        {
+            "text": "Organization",
+            "value": "organization"
+        },
+        {
+            "text": "Outbound",
+            "value": "outbound"
+        },
+        {
+            "text": "Package",
+            "value": "package"
+        },
+        {
+            "text": "Packages",
+            "value": "packages"
+        },
+        {
+            "text": "Package Upgrade",
+            "value": "package_upgrade"
+        },
+        {
+            "text": "Patterns",
+            "value": "patterns"
+        },
+        {
+            "text": "Pin",
+            "value": "pin"
+        },
+        {
+            "text": "Pod",
+            "value": "pod"
+        },
+        {
+            "text": "Pod Security",
+            "value": "pod_security"
+        },
+        {
+            "text": "Primitive",
+            "value": "primitive"
+        },
+        {
+            "text": "Products",
+            "value": "products"
+        },
+        {
+            "text": "Product Classes",
+            "value": "product_classes"
+        },
+        {
+            "text": "Product Subscriptions",
+            "value": "product_subscriptions"
+        },
+        {
+            "text": "Project",
+            "value": "project"
+        },
+        {
+            "text": "Proxy",
+            "value": "proxy"
+        },
+        {
+            "text": "Ptf",
+            "value": "ptf"
+        },
+        {
+            "text": "Quota",
+            "value": "quota"
+        },
+        {
+            "text": "Repositories",
+            "value": "repositories"
+        },
+        {
+            "text": "Route",
+            "value": "route"
+        },
+        {
+            "text": "Sandbox",
+            "value": "sandbox"
+        },
+        {
+            "text": "Secure Data",
+            "value": "secure_data"
+        },
+        {
+            "text": "Service",
+            "value": "service"
+        },
+        {
+            "text": "Service Instance",
+            "value": "service_instance"
+        },
+        {
+            "text": "Service Plan",
+            "value": "service_plan"
+        },
+        {
+            "text": "Smt",
+            "value": "smt"
+        },
+        {
+            "text": "Snapshot Rollback",
+            "value": "snapshot_rollback"
+        },
+        {
+            "text": "Software",
+            "value": "software"
+        },
+        {
+            "text": "State",
+            "value": "state"
+        },
+        {
+            "text": "Subscriptions Created",
+            "value": "subscriptions_created"
+        },
+        {
+            "text": "Symlink",
+            "value": "symlink"
+        },
+        {
+            "text": "System Group",
+            "value": "system_group"
+        },
+        {
+            "text": "System Image",
+            "value": "system_image"
+        },
+        {
+            "text": "System Re Registered",
+            "value": "system_re_registered"
+        },
+        {
+            "text": "Templates",
+            "value": "templates"
+        },
+        {
+            "text": "Terminal",
+            "value": "terminal"
+        },
+        {
+            "text": "Timeout",
+            "value": "timeout"
+        },
+        {
+            "text": "Troubleshooting",
+            "value": "troubleshooting"
+        },
+        {
+            "text": "Trusted Organization",
+            "value": "trusted_organization"
+        },
+        {
+            "text": "Unpatched",
+            "value": "unpatched"
+        },
+        {
+            "text": "Virtual Guest",
+            "value": "virtual_guest"
+        },
+        {
+            "text": "Virtual Host Manager",
+            "value": "virtual_host_manager"
+        },
+        {
+            "text": "Volume",
+            "value": "volume"
+        },
+        {
+            "text": "Workload",
+            "value": "workload"
+        }
+    ]
+}
