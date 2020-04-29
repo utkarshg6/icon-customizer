@@ -14,6 +14,11 @@ body {
   flex-grow: 1;
 }
 
+/* img {
+  display: block;
+  margin: auto;
+} */
+
 .download-buttons {
   text-align: center;
 }

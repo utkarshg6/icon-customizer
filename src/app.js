@@ -45,16 +45,10 @@ app.get("/help", (req, res) => {
 });
 
 app.get("/customize", (req, res) => {
-  if (!req.query.colorCode || !req.query.sizeInPixels || !req.query.iconName) {
-    return res.send({
-      error: "Please provide all the values.",
-    });
-  }
-
   return res.send(generateJSON(req.query.category,
     req.query.iconName,
-    req.query.colorCode,
-    req.query.sizeInPixels));
+    (!req.query.colorCode) ? '000000' : req.query.colorCode,
+    (!req.query.sizeInPixels) ? '500' : req.query.sizeInPixels));
 });
 
 

@@ -1,5 +1,4 @@
 const form = document.querySelector("form");
-const message = document.querySelector("#message");
 const displayImage = document.getElementById("display-image");
 const downloadSVG = document.getElementById("download-svg");
 const downloadPNG = document.getElementById("download-png");
@@ -38,7 +37,7 @@ const fetchDetails = (category, iconName, colorCode, sizeInPixels) => {
     (response) => {
       response.json().then((data) => {
         if (data.error) {
-          message.textContent = data.error;
+          console.log(data.error);
         } else {
           displayImage.src = 'data:image/svg+xml;base64,' + btoa(unescape(encodeURIComponent(data.svgCode)));
           // newImage.src = "/img/temp.svg?" + new Date().getTime();
@@ -77,9 +76,6 @@ form.addEventListener("submit", (e) => {
   const iconName = document.querySelector("#icon-name-dropdown").value;
   const colorCode = document.querySelector("#color-code").value.slice(1, 7);
   const sizeInPixels = document.querySelector("#size-in-pixels").value;
-  console.log(category);
-  console.log(iconName);
-  // message.textContent = "Loading...";
 
   fetchDetails(category, iconName, colorCode, sizeInPixels);
 });
