@@ -8,10 +8,10 @@ customizeSVG = (svgCode, colorCode, sizeInPixels) => {
   }
 
   // Index of Closing Bracket
-  const index = [...svgCode.matchAll(/>/)][0]["index"] + 1;
+  const index = [...svgCode.matchAll(/>/)][0]["index"];
 
-  return svgCode.slice(0, index - 1) +
-    ` fill="#${colorCode}" width="${sizeInPixels}px" height="${sizeInPixels}px">` +
+  return svgCode.slice(0, index) +
+    ` fill="#${colorCode}" width="${sizeInPixels}px" height="${sizeInPixels}px"` +
     svgCode.slice(index, svgCode.length);
 };
 

@@ -13,8 +13,7 @@ const updateSVG = (name) => {
 
 const updatePNG = (name, sizeInPixels) => {
   mycanvas = document.createElement('canvas');
-  mycanvas.width = sizeInPixels;
-  mycanvas.height = sizeInPixels;
+  mycanvas.width = mycanvas.height = sizeInPixels || "500";
   ctx = mycanvas.getContext("2d");
   displayImage.onload = function () {
     ctx.drawImage(displayImage, 0, 0);
