@@ -5,15 +5,17 @@ const downloadPNG = document.getElementById("download-png");
 const iconNameDropdown = document.getElementById("icon-name-dropdown");
 const category = document.title.toLowerCase();
 
+const defaultColorCode = "000000";
+const defaultSizeInPixels = "500";
+
 const updateSVG = (name) => {
   downloadSVG.setAttribute("download", name + ".svg");
   downloadSVG.setAttribute("href", displayImage.src);
-
 }
 
 const updatePNG = (name, sizeInPixels) => {
   mycanvas = document.createElement('canvas');
-  mycanvas.width = mycanvas.height = sizeInPixels || "500";
+  mycanvas.width = mycanvas.height = sizeInPixels;
   ctx = mycanvas.getContext("2d");
   displayImage.onload = function () {
     ctx.drawImage(displayImage, 0, 0);
@@ -62,19 +64,18 @@ fetch("./json/icon-names.json")
     iconsArray = data[category];
 
     for (let i = 0; i < iconsArray.length; i++) {
-      text = iconsArray[i]["text"];
-      value = iconsArray[i]["value"];
-      iconNameDropdown.options.add(new Option(text = text, value = value));
-      // console.log("Hey, I got the text " + text + " and value " + value);
+      iconNameDropdown
+        .options
+        .add(new Option(text = iconsArray[i]["text"], value = iconsArray[i]["value"]));
     }
-    fetchDetails(category, iconNameDropdown.value, "000000", 500);
+    fetchDetails(category, iconNameDropdown.value, defaultColorCode, defaultSizeInPixels);
   });
 
 form.addEventListener("submit", (e) => {
   e.preventDefault();
-  const iconName = document.querySelector("#icon-name-dropdown").value;
-  const colorCode = document.querySelector("#color-code").value.slice(1, 7);
-  const sizeInPixels = document.querySelector("#size-in-pixels").value;
+  const iconName = iconNameDropdown.value;
+  const colorCode = document.querySelector("#color-code").value.slice(1, 7) || defaultColorCode;
+  const sizeInPixels = document.querySelector("#size-in-pixels").value || defaultSizeInPixels;
 
   fetchDetails(category, iconName, colorCode, sizeInPixels);
 });
